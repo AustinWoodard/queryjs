@@ -1,2 +1,2 @@
 # queryjs
-A function that returns an object of queries at the end of a URL
+Calling the function getURLQuery() will return an object of queries at the end of the current URL.
